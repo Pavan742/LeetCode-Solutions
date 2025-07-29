@@ -1,2 +1,3 @@
-# LeetCode-Solutions
-Focused on Python Solutions, It's open to others to push the code or update(other's can push in any language), recommended to use the comments in better understanding way, so that users can be able to read the and understand in simple
+# LeetCode Solutions for Big Tech Prep
+Clean, easy-to-understand solutions in multiple languages.
+Open for contributions — add solutions, improve code, or enhance comments for better learning.
